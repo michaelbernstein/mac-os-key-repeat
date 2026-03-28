@@ -11,7 +11,7 @@ const About = () => {
     <Stack spacing={4}>
       <Stack direction="row" alignItems="center">
         <GitHubLogoIcon />{" "}
-        <Link href="https://github.com/ZaymonFC/mac-os-key-repeat">
+        <Link href="https://github.com/zaymonoid/mac-os-key-repeat">
           View the source on GitHub
         </Link>
       </Stack>
